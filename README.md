@@ -1,4 +1,4 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=300&section=header&text=웅's%20GitHub%20👋&fontSize=50)
 
 <!--
 **HwanWoongLee/HwanWoongLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
