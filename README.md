@@ -1,4 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=300&section=header&text=웅's%20GitHub%20👋&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&height=200&section=header&text=웅's%20GitHub%20👋&fontSize=30)
+
+### Skills ⌨️
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> 
+  <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+</p>
+
+
 
 <!--
 **HwanWoongLee/HwanWoongLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
